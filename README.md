@@ -28,6 +28,3 @@ Run `yarn` and `yarn start`.
 * [ ] Show details about user/repository
 * [ ] Add tests
 * [ ] Redux
-
-## License
-The MIT License (MIT). Please see License File for more information.
